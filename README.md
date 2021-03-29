@@ -1,4 +1,6 @@
-# myCode
+
+## myCode 
+All  about learning Python 
 
 my testing repo
 
